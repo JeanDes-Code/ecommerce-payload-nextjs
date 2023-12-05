@@ -19,6 +19,7 @@ export const FOOTER = `
     navItems {
       link ${LINK_FIELDS({ disableAppearance: true })}
 		}
+    copyright
   }
 `
 
